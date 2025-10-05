@@ -2,6 +2,9 @@
 
 Arogyam is a comprehensive healthcare platform designed to streamline appointment booking, doctor management, and administrative tasks. It provides a user-friendly interface for patients to easily find and book appointments with doctors based on their specialization. For administrators and doctors, Arogyam offers robust tools to manage appointments, doctor profiles, and overall system operations. This project aims to bridge the gap between patients and healthcare providers, making healthcare more accessible and efficient.
 
+## 🔗 Live Demo
+👉 [Visit SwasthyaSetu](https://arogyam-frontend.vercel.app/)
+
 ## 🚀 Key Features
 
 - **Effortless Appointment Booking**: Patients can easily search for doctors by speciality and book appointments online. 🗓️
